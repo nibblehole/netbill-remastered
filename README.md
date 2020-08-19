@@ -6,23 +6,33 @@ A Reworked Version of Internet Billing Manager by surdaysoft.
 
 # What's on this reworked version?
 Lots, since the original one is built on old version of PHP and has lost update by his original author, i've do some things on this :
+
 -Fixed the database connection, the original one still using mysql function that already deprecated on PHP 7.
+
 -Some adjustment on the main function.
+
 -And another things.
 
 Yes this still don't have a well-structured design, but atleast the main function still worked. Then you can do anything you want.
 
 # Usage :
+
 -Import netbill-db.sql.
+
 -Edit database connection in inc/config.php.
 
 # Default Login
+
 -Admin
+
   Username : admin
+  
   Password : admin
   
 -Client
+
   Username : dimas
+  
   Password : 123456
   
 # Visit the Original One
