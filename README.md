@@ -9,11 +9,15 @@ Just some things that bring the main function works functionally again, since th
 
 -Fixed the database connection, the original one still using mysql function that already deprecated on PHP 7.
 
+-Functioning the pagination.
+
 -Some adjustment on the main function.
 
 -And another things.
 
-Yes this still don't have a well-structured design, but atleast the main function still worked. Then you can do anything you want.
+Not that much but hope this will help people.
+
+Yes this also still don't have a well-structured design, but atleast the main function still worked. Then you can do anything you want.
 
 # Usage :
 
