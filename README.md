@@ -27,7 +27,7 @@ Yes this still don't have a well-structured design, but atleast the main functio
 
   Username : admin
   
-  Password : admin
+  Password : 123456
   
 -Client
 
