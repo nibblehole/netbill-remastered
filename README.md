@@ -2,7 +2,7 @@
 A reworked version of php internet billing app 'netbill' by surdaysoft.
 
 # What is this?
-A Reworked Version of Internet Billing Manager by surdaysoft.
+A Reworked Version of Internet Billing Manager App by surdaysoft.
 
 # What's on this reworked version?
 Just some things that bring the main function works again, since the original one is built on older version of PHP and has lost update by his original author, i've do some things on this :
