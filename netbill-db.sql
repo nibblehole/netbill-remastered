@@ -82,7 +82,7 @@ CREATE TABLE `t_pelanggan` (
 --
 
 INSERT INTO `t_pelanggan` (`id_pelanggan`, `nama`, `alamat`, `no_hp`, `email`, `id_paket`) VALUES
-('5F3D4B630B076', 'Royhan', 'Nglajo, Cepu', '082314597239', 'royhanabdurrohim@gmail.com', 'P01'),
+('5F3D4B630B076', 'Royhan', 'Blora, Cepu', '082314597239', 'royhanabdurrohim@gmail.com', 'P01'),
 ('5F3D50191E51E', 'Dimas', 'Sambeng', '081262712932', 'dims@wiuw.co', 'P01'),
 ('5F3D5235DE07F', 'Admin', 'Nglajo', '081234567890', 'hi@admin.co', 'P01');
 
@@ -105,7 +105,7 @@ CREATE TABLE `t_setting` (
 --
 
 INSERT INTO `t_setting` (`id`, `nama`, `alamat`, `pemilik`, `logo`) VALUES
-(1, 'TeamX Project', 'Nglajo', 'Royhan Abdurrohim', 'logo.png');
+(1, 'TeamX Project', 'Blora', 'Royhan', 'logo.png');
 
 -- --------------------------------------------------------
 
